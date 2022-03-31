@@ -1,0 +1,22 @@
+{
+  "name": "book_club_website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andikrau/book_club_website.git"
+  },
+  "author": "Andreas Kraus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andikrau/book_club_website/issues"
+  },
+  "homepage": "https://github.com/andikrau/book_club_website#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
